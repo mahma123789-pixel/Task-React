@@ -1,0 +1,12 @@
+.about {
+  padding: 60px 30px;
+}
+
+.about h2 {
+  margin-bottom: 20px;
+}
+
+.about p {
+  max-width: 500px;
+  margin: 10px auto;
+}
